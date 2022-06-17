@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script
+      src="https://kit.fontawesome.com/44be6900c4.js"
+      crossorigin="anonymous"
+    ></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Document</title>
+  </head>
+  <body class="scrollOff">
+    <!-- Burger Menu -->
+    <div class="modal hidden">
+      <div class="navMenu">
+        <div class="navLogo"><span> LOGO </span></div>
+        <div class="navpart1">
+          <nav class="mnNav">
+            <a href="index.html" class="remove-decor active">
+              <img src="img/home2.png" alt="" /> HOME
+            </a>
+            <a href="#" class="remove-decor">
+              <img src="img/discover.png" alt="" /> DISCOVERY
+            </a>
+            <a href="#" class="remove-decor">
+              <img src="img/photos.png" alt="" />PHOTOS
+            </a>
+            <a href="#" class="remove-decor"
+              ><img src="img/mail.png" alt="" /> CONTACT
+            </a>
+            <a href="#" class="remove-decor"
+              ><img src="img/christopher-campbell-28567-unsplash.png" alt="" />
+              PROFILE
+            </a>
+          </nav>
+        </div>
+      </div>
+      <div class="footerPart">
+        <div class="miniFooterContainer">
+          <div class="footer-mini">
+            <a href="#" class="decorFooterMini"> About </a>
+            <a href="#" class="decorFooterMini"> Help </a>
+            <a href="#" class="decorFooterMini"> Terms </a>
+            <a href="#" class="decorFooterMini"> Guidlines </a>
+          </div>
+          <div class="footer-mini">
+            <a href="#" class="decorFooterMini"> Testimonials </a>
+            <a href="#" class="decorFooterMini"> Advertise </a>
+            <a href="#" class="decorFooterMini"> Integrations </a>
+            <a href="#" class="decorFooterMini"> Careers </a>
+          </div>
+        </div>
+        <div class="footer-soccial-mini">
+          <a href="#" class="footer-color-mini">
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+          </a>
+          <a href="#" class="footer-color-mini">
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+          </a>
+          <a href="#" class="footer-color-mini">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+          </a>
+          <a href="#" class="footer-color-mini">
+            <i class="fa fa-globe" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    <header class="mainHeader">
+      <div class="logo"><span> LOGO </span></div>
+      <nav class="nav">
+        <a href="#" class="nav-item active"> HOME </a>
+        <a href="index4.html" class="nav-item no-decor"> DISCOVERY </a>
+        <a href="#" class="nav-item no-decor"> PHOTOS </a>
+        <a href="#" class="nav-item no-decor"> CONTACT </a>
+        <img src="img/headerIcon.png" alt="" />
+      </nav>
+    </header>
+    <header class="headerV2_none">
+      <div>
+        <button class="show-modal">
+          <img src="img/menu icon.png" alt="" />
+        </button>
+      </div>
+      <span> LOGO </span>
+      <div><img src="img/avatar2.png" alt="" /></div>
+    </header>
+
+    <main>
+      <div class="centerMain">
+        <div class="mainPart1">
+          <div class="main-picture">
+            <div class="mainContainer1"></div>
+            <div class="slogan">
+              <h2>World NEWS</h2>
+              <h3>Amazing places in America to visit.</h3>
+              <p>
+                For some reason — this country, this city, this neighborhood,
+                this particular street —  is the place you are living a majority
+                of your life in.
+              </p>
+              <a href="index2.html" class="learnMore"> LEARN MORE </a>
+            </div>
+          </div>
+          <div class="mainPart1-v2">
+            <div class="newsPart">
+              <span class="moreNewss"> MORE NEWS </span>
+              <div>
+                <button class="pre-btn1 basebtn">
+                  <img src="img/arrow1.png" alt="" />
+                </button>
+                <button class="nxt-btn1 basebtn">
+                  <img src="img/arrow.png" alt="" />
+                </button>
+              </div>
+            </div>
+            <div class="timeoutContainer">
+              <div class="timeOut">
+                <span class="decoration">TRAVEL</span>
+                <h4>Article title</h4>
+                <span
+                  >Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad
+                  has appareat…
+                </span>
+                <br />
+                <span> <img src="img/time.png" alt="" /> &nbsp; 2 min ago</span>
+              </div>
+              <br />
+              <div class="timeOut">
+                <span class="decoration">TECHNOLOGY</span>
+                <h4>Article title</h4>
+                <span
+                  >Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad
+                  has appareat… <br />
+                </span>
+                <br />
+                <span> <img src="img/time.png" alt="" /> &nbsp; 4 min ago</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="sectionCombine">
+          <section class="home-section">
+            <div class="background-part">
+              <h2>TRENDING</h2>
+              <div class="btnP2">
+                <button class="pre-btn basebtn">
+                  <img src="img/arrow1.png" alt="" />
+                </button>
+                <button class="nxt-btn basebtn">
+                  <img src="img/arrow.png" alt="" />
+                </button>
+              </div>
+            </div>
+            <div class="methods-wrapper">
+              <div class="methods-partial">
+                <img
+                  src="img/trending_01.png"
+                  class="responsive-img"
+                  alt="method-01"
+                />
+                <h3>Lorem Ipsum</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad
+                  has appareat.
+                  <br />
+                  <br />
+                  <span>
+                    <img src="img/time.png" alt="" /> &nbsp; 4 min ago</span
+                  >
+                </p>
+                <br />
+              </div>
+              <div class="methods-partial">
+                <img
+                  src="img/trending_02.png"
+                  class="responsive-img"
+                  alt="method-02"
+                />
+                <h3>Lorem Ipsum</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad
+                  has appareat.
+                  <br />
+                  <br />
+                  <span> <img src="img/time.png" alt="" /> &nbsp; 1h ago</span>
+                </p>
+                <br />
+              </div>
+              <div class="methods-partial">
+                <img
+                  src="img/trending_03.png"
+                  class="responsive-img"
+                  alt="method-03"
+                />
+                <h3>Lorem Ipsum</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad
+                  has appareat.
+                  <br />
+                  <br />
+                  <span> <img src="img/time.png" alt="" /> &nbsp; 3h ago</span>
+                </p>
+                <br />
+              </div>
+              <div class="methods-partial">
+                <img
+                  src="img/trending_01.png"
+                  class="responsive-img"
+                  alt="method-04"
+                />
+                <h3>Lorem Ipsum</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad
+                  has appareat.
+                  <br />
+                  <br />
+                  <span> <img src="img/time.png" alt="" /> &nbsp; 5h ago</span>
+                </p>
+                <br />
+              </div>
+              <div class="methods-partial">
+                <img
+                  src="img/trending_02.png"
+                  class="responsive-img"
+                  alt="method-05"
+                />
+                <h3>Lorem Ipsum</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad
+                  has appareat.
+                  <br />
+                  <br />
+                  <span> <img src="img/time.png" alt="" /> &nbsp; 3h ago</span>
+                </p>
+                <br />
+              </div>
+              <div class="methods-partial">
+                <img
+                  src="img/trending_03.png"
+                  class="responsive-img"
+                  alt="method-01"
+                />
+                <h3>Lorem Ipsum</h3>
+                <p>
+                  Lorem ipsum dolor sit amet, ipsum labitur lucilius mel id, ad
+                  has appareat.
+                  <br />
+                  <br />
+                  <span> <img src="img/time.png" alt="" /> &nbsp; 3h ago</span>
+                </p>
+                <br />
+              </div>
+            </div>
+          </section>
+          <section class="home-section2">
+            <div class="background-part2">
+              <h2>HAPPENING NOW</h2>
+              <div class="btnP2">
+                <button class="pre-btn2 basebtn">
+                  <img src="img/arrow1.png" alt="" />
+                </button>
+                <button class="nxt-btn2 basebtn">
+                  <img src="img/arrow.png" alt="" />
+                </button>
+              </div>
+            </div>
+
+            <div class="part2Happening">
+              <div class="nowHappening_1">
+                <div class="happening_1v1">
+                  <h4>City</h4>
+                  <div class="slogan2">
+                    <h3>Large article title</h3>
+                    <p>
+                      Lorem ipsum dolor sit amet, in eam odio amet, vix id
+                      nullam detracto, vidit vituperatoribus duo id. Affert
+                      detraxit voluptatum vis eu, inermis eloquentiam.
+                    </p>
+                    <span class="decorationColor">
+                      <img src="img/time.png" alt="" /> &nbsp; 2 min ago</span
+                    >
+                  </div>
+                </div>
+
+                <div class="nowHappening_1">
+                  <div class="happening_1v2">
+                    <h4>TRAVEL</h4>
+                    <div class="slogan2">
+                      <h3>Large article title</h3>
+                      <p>
+                        Lorem ipsum dolor sit amet, in eam odio amet, vix id
+                        nullam detracto, vidit vituperatoribus duo id. Affert
+                        detraxit voluptatum vis eu, inermis eloquentiam.
+                      </p>
+                      <span class="decorationColor">
+                        <img src="img/time.png" alt="" /> &nbsp; 2 min ago</span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="happening_1v3">
+                <div>
+                  <img class="sizePart3pic" src="img/happening_3.png" alt="" />
+                  <h4>Small title</h4>
+                  <span>
+                    <img class="decorationColor" src="img/time.png" alt="" />
+                    &nbsp; 2 min ago
+                  </span>
+                </div>
+                <div>
+                  <img class="sizePart3pic" src="img/happening_4.png" alt="" />
+                  <h4>Small title</h4>
+                  <span class="decorationColor">
+                    <img src="img/time.png" alt="" /> &nbsp; 2 min ago
+                  </span>
+                </div>
+                <div class="display">
+                  <img class="sizePart3pic" src="img/happening_5.png" alt="" />
+                  <h4>Small title</h4>
+                  <span class="decorationColor">
+                    <img src="img/time.png" alt="" /> &nbsp; 2 min ago
+                  </span>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <div class="footer-wrapper">
+        <div class="footer-Part1-div">
+          <span class="part1Logo"> LOGO </span>
+          <div class="footerContainer1">
+            <div class="footer-nav-parts">
+              <a href="#" class="decorFooter"> Home </a>
+              <a href="#" class="decorFooter"> Discovery </a>
+              <a href="#" class="decorFooter"> Photos </a>
+              <a href="#" class="decorFooter"> Contact </a>
+            </div>
+            <div class="footer-nav-parts">
+              <a href="#" class="decorFooter"> About </a>
+              <a href="#" class="decorFooter"> Help </a>
+              <a href="#" class="decorFooter"> Terms </a>
+              <a href="#" class="decorFooter"> Guidlines </a>
+            </div>
+            <div class="footer-nav-parts">
+              <a href="#" class="decorFooter"> Testimonials </a>
+              <a href="#" class="decorFooter"> Advertise </a>
+              <a href="#" class="decorFooter"> Integrations </a>
+              <a href="#" class="decorFooter"> Careers </a>
+            </div>
+          </div>
+        </div>
+        <div class="footerContainer2">
+          <div class="footer-Part2-Email">
+            <input
+              name="Email"
+              id=""
+              class="emailButton inputEmail"
+              type="text"
+              placeholder="E mail"
+            />
+            <span> Stay in touch with us for the freshest products!</span>
+          </div>
+          <div class="footer-Part3-Socials">
+            <a href="#" class="footer-color">
+              <i class="fa fa-instagram" aria-hidden="true"></i>
+            </a>
+            <a href="#" class="footer-color">
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </a>
+            <a href="#" class="footer-color">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+            </a>
+            <a href="#" class="footer-color">
+              <i class="fa fa-globe" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <div class="overlay hidden"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
